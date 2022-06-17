@@ -1,0 +1,53 @@
+body {
+  background-color:#0f0f0f;
+  color:#ffffff;
+}
+a:link {
+  color: #dd7737;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #dd7737;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #2596be;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: #2596be;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.dark-mode {
+  background-color:#ffffff;
+  color:#000000;
+}
+.topnav {
+  background-color: #ffffff;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: #000000;
+  text-align: center;
+  padding: 15px 15px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: verdana;
+}
+.topnav a:hover {
+  background-color: #0f0f0f;
+  color: #ffffff;
+}
+.topnav a:active {
+  background-color: #dd7737;
+  color: #2596be;
+}
+.topnav a.active {
+  background-color: #dd7737;
+  color: #000000;
+}

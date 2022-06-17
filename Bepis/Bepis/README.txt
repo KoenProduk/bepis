@@ -1,0 +1,1 @@
+These different html pages were intended on being viewed with "Dark Mode" enabled. The option for light mode is there, but the webpages were NOT built around it, so if anything looks bad it's not my fault ;)
